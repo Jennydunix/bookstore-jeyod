@@ -42,7 +42,7 @@ const Login = () => {
 						type="text"
 						id="text"
 						name="username"
-						placeholder="Username"
+						placeholder="enter email"
 						required
 						ref={emailRef}
 					/>
